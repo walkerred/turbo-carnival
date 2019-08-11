@@ -1,9 +1,12 @@
 #EXTM3U
 #EXTINF:0,CNN
+EXTVLCOPT:network-caching=1000
 http://peer2.savitar.tv/CNN/myStream/chunks.m3u8?nimblesessionid=13773626&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo0Nzo0MiBBTSZoYXNoX3ZhbHVlPXdmS2tlU1VTUWkxU2dMS3l6T0p6aHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 #EXTINF:0,MOTOR TREND
+EXTVLCOPT:network-caching=1000
 http://live.savitar.tv/MotorTrend/myStream/chunks.m3u8?nimblesessionid=19123552&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo0OTo0NyBBTSZoYXNoX3ZhbHVlPVlmcUR1SXdMdnBlOGFDc2FVNEI4M1E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 #EXTINF:0,POP
+EXTVLCOPT:network-caching=1000
 http://live.savitar.tv/POP/myStream/l_241180_27080469_6751.ts?nimblesessionid=19124330&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo1MTo0OSBBTSZoYXNoX3ZhbHVlPVV5YkJwNnNqRzlIRCs2NHpUOXp4UXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 #EXTINF:0,DISNEY HD
 http://live.savitar.tv/DisneyXD/myStream/chunks.m3u8?nimblesessionid=19124816&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo1MzoyMSBBTSZoYXNoX3ZhbHVlPUxMdWkwdnFWcTFtc0dHM0lhQWRITUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
@@ -92,16 +95,23 @@ http://peer2.savitar.tv/FOX/myStream/chunks.m3u8?nimblesessionid=13794231&wmsAut
 #EXTINF:0,CNBC
 http://live.savitar.tv/CNBC/myStream/chunks.m3u8?nimblesessionid=19145185&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo1ODoxMSBBTSZoYXNoX3ZhbHVlPVZ1Y25CM0pucXZTd1NPTnFLOUFlclE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 #EXTINF:0,5 STAR MAX
+EXTVLCOPT:network-caching=1000
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101291
 #EXTINF:0,AHN (AMERICAN HEROES NETWORK)
+EXTVLCOPT:network-caching=1000
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101288
 #EXTINF:0,BET EAST
+EXTVLCOPT:network-caching=1000
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101279
 #EXTINF:0,BOUNCE
+EXTVLCOPT:network-caching=1000
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101271
 #EXTINF:0,BET WEST
+EXTVLCOPT:network-caching=1000
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101278
 #EXTINF:0,BLOOMBERG
+EXTVLCOPT:network-caching=1000
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101273
 #EXTINF:0,BOOMERANG
+EXTVLCOPT:network-caching=1000
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101272
