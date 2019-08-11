@@ -1,303 +1,107 @@
 #EXTM3U
-#EXTINF:-1,ABC News
-http://atlantisiptv.com:8080/lisa/lisa1/88398
-#EXTINF:-1,A&E
-http://atlantisiptv.com:8080/lisa/lisa1/88357
-#EXTINF:-1,ABC 5
-http://atlantisiptv.com:8080/lisa/lisa1/88362
-#EXTINF:-1,ABC 7 (Chicago)
-http://atlantisiptv.com:8080/lisa/lisa1/88361
-#EXTINF:-1,ABC 7 (New York)
-http://atlantisiptv.com:8080/lisa/lisa1/96176
-#EXTINF:-1,AMC
-http://atlantisiptv.com:8080/lisa/lisa1/88356
-#EXTINF:-1,AMERICAN HERO
-http://atlantisiptv.com:8080/lisa/lisa1/88388
-#EXTINF:-1,ANIMAL PLANET
-http://atlantisiptv.com:8080/lisa/lisa1/88387
-#EXTINF:-1,USA: BABY TV | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88423
-#EXTINF:-1,USA: BBC AMERICA | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88399
-#EXTINF:-1,USA: BEIN SPORT | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88463
-#EXTINF:-1,USA: BET | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88355
-#EXTINF:-1,USA: BOOMERANG | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88422
-#EXTINF:-1,USA: BRAVO | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88354
-#EXTINF:-1,USA: CARTOON NETWORK  | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88421
-#EXTINF:-1,USA: CBS 2 (New York) | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88360
-#EXTINF:-1,USA: CBS 46 Atlanta
-http://atlantisiptv.com:8080/lisa/lisa1/53208
-#EXTINF:-1,USA*: CBS SPORTS NETWORK | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88461
-#EXTINF:-1,USA: CBS NY HD
-http://atlantisiptv.com:8080/lisa/lisa1/111281
-#EXTINF:-1,USA*: CBS | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88359
-#EXTINF:-1,USA: CINEMAX ACTION | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88415
-#EXTINF:-1,USA: CINEMAX OUTERMAX | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88414
-#EXTINF:-1,USA: CINEMAX MOREMAX | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88413
-#EXTINF:-1,USA: CINEMAX | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88412
-#EXTINF:-1,USA: CMT | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88353
-#EXTINF:-1,USA: CNBC WORLD | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88397
-#EXTINF:-1,USA*: CNBC | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88396
-#EXTINF:-1,USA: CNN | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88395
-#EXTINF:-1,USA: COMEDY CENTRAL | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88352
-#EXTINF:-1,USA: COOKING CHANNEL | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88386
-#EXTINF:-1,USA: CRIME & INVESTIGATION| HD
-http://atlantisiptv.com:8080/lisa/lisa1/88351
-#EXTINF:-1,USA: CW | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88350
-#EXTINF:-1,USA: DAYSTAR | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88349
-#EXTINF:-1,USA: DESTINATION AMERICA | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88385
-#EXTINF:-1,USA: DISCOVERY CHANNEL | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88384
-#EXTINF:-1,USA: DISCOVERY SCIENCE | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88383
-#EXTINF:-1,USA: DISCOVERY VELOCITY | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88382
-#EXTINF:-1,USA: DISNEY CHANNEL | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88420
-#EXTINF:-1,USA: DISNEY JR | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88419
-#EXTINF:-1,USA: DISNEY XD | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88418
-#EXTINF:-1,USA: DIY NETWORK | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88381
-#EXTINF:-1,USA: DISCOVERY LIFE HD
-http://atlantisiptv.com:8080/lisa/lisa1/89669
-#EXTINF:-1,USA*: E! | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88348
-#EXTINF:-1,USA: EPIX | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88411
-#EXTINF:-1,USA: ESPN 2 | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88459
-#EXTINF:-1,USA: ESPN DEPORTES | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88456
-#EXTINF:-1,USA: ESPN News | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88457
-#EXTINF:-1,USA: ESPN U | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88458
-#EXTINF:-1,USA: ESPN | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88460
-#EXTINF:-1,USA: FANTASY NETWORK | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88455
-#EXTINF:-1,USA: FIGHT BOX | HD
-http://atlantisiptv.com:8080/lisa/lisa1/101609
-#EXTINF:-1,USA: FIGHT NETWORK | HD
-http://atlantisiptv.com:8080/lisa/lisa1/101608
-#EXTINF:-1,USA: FOOD NETWORK | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88380
-#EXTINF:-1,USA*: FOX 32 (Chicago) | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88347
-#EXTINF:-1,USA: FOX 5 (New York) | HD
-http://atlantisiptv.com:8080/lisa/lisa1/96178
-#EXTINF:-1,USA*: Fox College Sports Atlantic | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88454
-#EXTINF:-1,USA*: Fox College Sports Central | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88453
-#EXTINF:-1,USA*: Fox College Sports Pacific | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88452
-#EXTINF:-1,USA*: FOX NEWS CHANNEL | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88394
-#EXTINF:-1,USA: FOX SOCCER PLUS | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88449
-#EXTINF:-1,USA*: FOX SPORTS 1 | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88451
-#EXTINF:-1,USA*: FOX SPORTS 2 | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88450
-#EXTINF:-1,USA: FOX | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88358
-#EXTINF:-1,USA: FREEFORM | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88346
-#EXTINF:-1,USA: FYI | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88345
-#EXTINF:-1,USA: FUSION | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88344
-#EXTINF:-1,USA: FX | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88343
-#EXTINF:-1,USA: FXM | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88410
-#EXTINF:-1,USA: FXX | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88342
-#EXTINF:-1,USA*: Free Speech TV
-http://atlantisiptv.com:8080/lisa/lisa1/96540
-#EXTINF:-1,USA: FUSE HD
-http://atlantisiptv.com:8080/lisa/lisa1/111466
-#EXTINF:-1,USA: GAME SHOW NETWORK | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88341
-#EXTINF:-1,USA*: HALLMARK CHANNEL | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88340
-#EXTINF:-1,USA*: HALLMARK MOVIES & MYSTERIES | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88409
-#EXTINF:-1,USA: HBO (East) | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88408
-#EXTINF:-1,USA: HBO COMEDY | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88407
-#EXTINF:-1,USA: HBO FAMILY | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88406
-#EXTINF:-1,USA: HBO ZONE | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88405
-#EXTINF:-1,USA*: HGTV | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88379
-#EXTINF:-1,USA: HISTORY 2 | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88377
-#EXTINF:-1,USA: HISTORY CHANNEL | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88378
-#EXTINF:-1,USA*: HLN | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88376
-#EXTINF:-1,USA: IFC | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88339
-#EXTINF:-1,USA: INVESTIGATION DISCOVERY (East) | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88375
-#EXTINF:-1,USA: LIFETIME | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88338
-#EXTINF:-1,USA: Lifetime Movie Network HD
-http://atlantisiptv.com:8080/lisa/lisa1/88593
-#EXTINF:-1,USA: MOTORTREND NETWORK | HD
-http://atlantisiptv.com:8080/lisa/lisa1/101798
-#EXTINF:-1,USA: MLB NETWORK | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88448
-#EXTINF:-1,USA*: MSNBC | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88392
-#EXTINF:-1,USA: MTV 2 HD
-http://atlantisiptv.com:8080/lisa/lisa1/90540
-#EXTINF:-1,USA: MTV HD
-http://atlantisiptv.com:8080/lisa/lisa1/90539
-#EXTINF:-1,USA: MSG HD
-http://atlantisiptv.com:8080/lisa/lisa1/90541
-#EXTINF:-1,USA: NAT GEO WILD | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88374
-#EXTINF:-1,USA: NAT GEO | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88373
-#EXTINF:-1,USA*: NBA TV | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88446
-#EXTINF:-1,USA: NBC 5 (Chicago) | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88337
-#EXTINF:-1,USA: NBC 2 (Buffalo NY) | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88336
-#EXTINF:-1,USA: NBC 4 (New York) | HD
-http://atlantisiptv.com:8080/lisa/lisa1/96177
-#EXTINF:-1,USA*: NBC GOLF CHANNEL | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88447
-#EXTINF:-1,USA: NBC Olympic Channel | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88441
-#EXTINF:-1,USA: NBC SPORTS (Chicago) | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88440
-#EXTINF:-1,USA: NBC SPORTS BAY AREA | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88439
-#EXTINF:-1,USA: NBC SPORTS Boston | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88437
-#EXTINF:-1,USA: NBC SPORTS CALIFORNIA  | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88438
-#EXTINF:-1,USA: NBC SPORTS NORTHWEST | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88436
-#EXTINF:-1,USA*: NBC Sports Network| HD
-http://atlantisiptv.com:8080/lisa/lisa1/88443
-#EXTINF:-1,USA: NBC Sports Philadelphia  | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88435
-#EXTINF:-1,USA: NBC Sports Washington| HD
-http://atlantisiptv.com:8080/lisa/lisa1/88434
-#EXTINF:-1,USA: NESN
-http://atlantisiptv.com:8080/lisa/lisa1/101419
-#EXTINF:-1,USA: NESN PLUS | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88442
-#EXTINF:-1,USA*: NFL NETWORK | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88444
-#EXTINF:-1,USA: NHL NETWORK | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88445
-#EXTINF:-1,USA: Nick Jr HD
-http://atlantisiptv.com:8080/lisa/lisa1/88592
-#EXTINF:-1,USA: Nickelodeon HD
-http://atlantisiptv.com:8080/lisa/lisa1/88591
-#EXTINF:-1,USA: OUTDOOR CHANNEL | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88372
-#EXTINF:-1,USA: OWN | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88335
-#EXTINF:-1,USA: OXYGEN | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88334
-#EXTINF:-1,USA: PAC-12 ARIZONA | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88433
-#EXTINF:-1,USA: PAC-12 BAY AREA | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88432
-#EXTINF:-1,USA: PAC-12 LOS ANGELES | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88431
-#EXTINF:-1,USA: PAC-12 MOUNTAIN | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88430
-#EXTINF:-1,USA*: PAC-12 NETWORK | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88429
-#EXTINF:-1,USA: PAC-12 OREGON | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88428
-#EXTINF:-1,USA: PAC-12 WASHINGTON | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88427
-#EXTINF:-1,USA: PBS Kids
-http://atlantisiptv.com:8080/lisa/lisa1/47459
-#EXTINF:-1,USA: POP TV | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88333
-#EXTINF:-1,USA: PARAMOUNT  HD
-http://atlantisiptv.com:8080/lisa/lisa1/101418
-#EXTINF:-1,USA*: Press TV
-http://atlantisiptv.com:8080/lisa/lisa1/96559
-#EXTINF:-1,USA*: RT America | HD
-http://atlantisiptv.com:8080/lisa/lisa1/96541
-#EXTINF:-1,USA: SHOWTIME EXTREME | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88404
-#EXTINF:-1,USA: SHOWTIME 2 | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88402
-#EXTINF:-1,USA: SHOWTIME  | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88403
-#EXTINF:-1,USA: STARZ (East) | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88401
-#EXTINF:-1,USA: SUNDANCE | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88332
-#EXTINF:-1,USA: SYFY | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88331
-#EXTINF:-1,USA*: TBS | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88330
-#EXTINF:-1,USA*: TENNIS CHANNEL | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88426
-#EXTINF:-1,USA: TLC | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88329
-#EXTINF:-1,USA*: TNT | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88328
-#EXTINF:-1,USA: TRAVEL CHANNEL | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88371
-#EXTINF:-1,USA: TRU TV | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88327
-#EXTINF:-1,USA*: The Weather Channel | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88391
-#EXTINF:-1,USA: UNIVERSAL KIDS | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88417
-#EXTINF:-1,USA*: USA NETWORK | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88326
-#EXTINF:-1,USA: VH1 HD
-http://atlantisiptv.com:8080/lisa/lisa1/88837
-#EXTINF:-1,USA: VICELAND | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88325
-#EXTINF:-1,USA: WE TV | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88323
-#EXTINF:-1,USA: WORLD FISHING NETWORK | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88424
-#EXTINF:-1,USA: Willow Cricket | HD
-http://atlantisiptv.com:8080/lisa/lisa1/88425
-#EXTINF:-1,USA: | UFC Fight Pass 24/7
-http://atlantisiptv.com:8080/lisa/lisa1/37063
-#EXTINF:-1,USA: | WWE TV HD
-http://atlantisiptv.com:8080/lisa/lisa1/32208
+#EXTINF:0,CNN
+http://peer2.savitar.tv/CNN/myStream/chunks.m3u8?nimblesessionid=13773626&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo0Nzo0MiBBTSZoYXNoX3ZhbHVlPXdmS2tlU1VTUWkxU2dMS3l6T0p6aHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,MOTOR TREND
+http://live.savitar.tv/MotorTrend/myStream/chunks.m3u8?nimblesessionid=19123552&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo0OTo0NyBBTSZoYXNoX3ZhbHVlPVlmcUR1SXdMdnBlOGFDc2FVNEI4M1E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,POP
+http://live.savitar.tv/POP/myStream/l_241180_27080469_6751.ts?nimblesessionid=19124330&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo1MTo0OSBBTSZoYXNoX3ZhbHVlPVV5YkJwNnNqRzlIRCs2NHpUOXp4UXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,DISNEY HD
+http://live.savitar.tv/DisneyXD/myStream/chunks.m3u8?nimblesessionid=19124816&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo1MzoyMSBBTSZoYXNoX3ZhbHVlPUxMdWkwdnFWcTFtc0dHM0lhQWRITUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,TRU TV
+http://peer3.savitar.tv/TruTV/myStream/l_200206_48996626_9476.ts?nimblesessionid=695028&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo1NDo0NyBBTSZoYXNoX3ZhbHVlPTZ3bmo0eVVnNEFVdFQ0QVBib1BoUXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,HBO
+http://peer3.savitar.tv/HBO/myStream/chunks.m3u8?nimblesessionid=695163&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo1NjoyOSBBTSZoYXNoX3ZhbHVlPWp6azcrV0hkL1JZYzYxNEF2bUE1ZEE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,SHOWTIME
+http://peer3.savitar.tv/Showtime/myStream/chunks.m3u8?nimblesessionid=695319&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo1ODowNCBBTSZoYXNoX3ZhbHVlPVFSZjA1YURLcC8xYlRJb2lJbzY4T2c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,TNT
+http://peer2.savitar.tv/TNT/myStream/chunks.m3u8?nimblesessionid=13776779&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDowMDoxOSBBTSZoYXNoX3ZhbHVlPWhuMFcyUnhXeFlDVFR2cnZEblJRMnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,TCM (TURNER CLASSIC MOVIES)
+http://live.savitar.tv/TCM/myStream/chunks.m3u8?nimblesessionid=19127850&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDowMTozMyBBTSZoYXNoX3ZhbHVlPUMzaFdlVGtZMk9kTEN6YlVLY1NxSGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,STARZ
+http://live.savitar.tv/StarZ/myStream/chunks.m3u8?nimblesessionid=19132743&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoxMzoyMyBBTSZoYXNoX3ZhbHVlPTBPN1hRV1daRk02TzFLcTFPSVdWVGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,FX
+http://live.savitar.tv/FX/myStream/chunks.m3u8?nimblesessionid=19131070&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDowODo0OCBBTSZoYXNoX3ZhbHVlPUlGcUNMWEFnVlN3dTJtRnF2VFQ3Y2c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,USA
+http://peer2.savitar.tv/USANetwork/myStream/chunks.m3u8?nimblesessionid=13778750&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDowNjozMyBBTSZoYXNoX3ZhbHVlPW50cU5pVE9KUERrZmFFR295Uk1adnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,SYFY
+http://live.savitar.tv/SYFY/myStream/chunks.m3u8?nimblesessionid=19133400&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoxNToxNyBBTSZoYXNoX3ZhbHVlPWw5Z2t5Y3UyNnJMcVIxeXJJa1pGd0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,BBC AMERICA
+http://live.savitar.tv/BBCAmerica/myStream/chunks.m3u8?nimblesessionid=19133910&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoxNjozOSBBTSZoYXNoX3ZhbHVlPXBiVkZLRi9mWGg3NjJTaDZiUkVtUGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,PBS
+http://live.savitar.tv/PBS/myStream/chunks.m3u8?nimblesessionid=19134458&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoxODowNyBBTSZoYXNoX3ZhbHVlPTFPZXUrTXh2YnV0WGw4NUNFUHI3bUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,NAT GEO
+http://live.savitar.tv/NatGEO/myStream/chunks.m3u8?nimblesessionid=19134962&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoxOToyNyBBTSZoYXNoX3ZhbHVlPTI0YWFtdHNITm4vS2VlV0lNZCtPc3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,NAT GEO WILD
+http://live.savitar.tv/NatGEOWild/myStream/chunks.m3u8?nimblesessionid=19135538&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyMTowMiBBTSZoYXNoX3ZhbHVlPTZEemVtSGZRQTBla29CYVNaVm5qN1E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,ANIMAL PLANET
+http://live.savitar.tv/Animal/myStream/chunks.m3u8?nimblesessionid=19135942&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyMjoxOCBBTSZoYXNoX3ZhbHVlPURpN1hYUXFpcmd3VjJwdmtHeGxZYmc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,COMEDY CENTRAL
+http://live.savitar.tv/Comedy/myStream/chunks.m3u8?nimblesessionid=19136327&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyMzozMCBBTSZoYXNoX3ZhbHVlPWNJVU82TjluZDhGbEZlSDUyaEgxVlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,FREE FORM
+http://live.savitar.tv/Freeform/myStream/chunks.m3u8?nimblesessionid=19136813&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyNToxNyBBTSZoYXNoX3ZhbHVlPXpGcmtLZVpjeWRyZVg2TnR2YTBlN0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,LIFETIME
+http://live.savitar.tv/Lifetime/myStream/chunks.m3u8?nimblesessionid=19137156&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyNjozNSBBTSZoYXNoX3ZhbHVlPW83S1NzU04yeVFVOHhNR1dCZTljbkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,FOOD NETWORK
+http://live.savitar.tv/FoodNetwork/myStream/chunks.m3u8?nimblesessionid=19137487&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyNzo1MyBBTSZoYXNoX3ZhbHVlPXBRbHBsSDhYNE5xVzZIT3V3MzAzY0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,TLC
+http://live.savitar.tv/TLC/myStream/chunks.m3u8?nimblesessionid=19137795&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyOToyNCBBTSZoYXNoX3ZhbHVlPW9oNDhnTHNuYXY1N1lqWFgzTk1GbFE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,TRAVEL
+http://live.savitar.tv/Travel/myStream/chunks.m3u8?nimblesessionid=19138174&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozMDo0MiBBTSZoYXNoX3ZhbHVlPXk4Z2FqMDNNUm50dk8zWGxDWGpOcnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,BRAVO
+http://live.savitar.tv/Bravo/myStream/chunks.m3u8?nimblesessionid=19138603&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozMjoyMiBBTSZoYXNoX3ZhbHVlPUJmR1VQOTNtYUxJeGYraHJmdUdoTlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,TV LAND
+http://live.savitar.tv/TVLand/myStream/chunks.m3u8?nimblesessionid=19139009&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozMzozNCBBTSZoYXNoX3ZhbHVlPXdzcUJ3WG9YY0N4S1gzeGdTdGg4RlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,TBS
+http://live.savitar.tv/TBS/myStream/chunks.m3u8?nimblesessionid=19139437&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozNTowMiBBTSZoYXNoX3ZhbHVlPUVPSjl0NUJRdEJGTE8rWGNHQkFNVnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,A&E
+http://live.savitar.tv/AE/myStream/chunks.m3u8?nimblesessionid=19139655&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozNTo1OCBBTSZoYXNoX3ZhbHVlPU1zbXZsN05RcGZKTzk1Y3o4S2RqQWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,HALLMARK MOVIES & MYSTERIES
+http://live.savitar.tv/HMM/myStream/chunks.m3u8?nimblesessionid=19139904&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozNzowNyBBTSZoYXNoX3ZhbHVlPW9icTdqd2NNWlB3eHJhZ01SaE1nY2c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,HALLMARK
+http://live.savitar.tv/Hallmark/myStream/chunks.m3u8?nimblesessionid=19140286&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozODozMSBBTSZoYXNoX3ZhbHVlPVRVZ0pTcnQ2NFY2dmNaZSt5QThXV3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,DISNEY
+http://live.savitar.tv/Disney/myStream/chunks.m3u8?nimblesessionid=19140541&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozOTozMCBBTSZoYXNoX3ZhbHVlPUFWejVOWGxRSkpFTk9nTFdrNmg2a0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,ID
+http://live.savitar.tv/ID/myStream/chunks.m3u8?nimblesessionid=19140811&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0MDozNyBBTSZoYXNoX3ZhbHVlPWYzQ1V0M1pvd2pDamlFMHlsYXRtS1E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,NICK
+http://live.savitar.tv/Nickelodeon/myStream/chunks.m3u8?nimblesessionid=19141029&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0MToyNyBBTSZoYXNoX3ZhbHVlPUNHRVE4S1ZORWxvZFRWQmtqMDV4Ync9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,CARTOON NETWORK
+http://live.savitar.tv/CN/myStream/chunks.m3u8?nimblesessionid=19141293&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0MjoyNyBBTSZoYXNoX3ZhbHVlPWw4Y0I3M2hpTldORlFNa2FwOU9wS3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,CW
+http://live.savitar.tv/CW/myStream/chunks.m3u8?nimblesessionid=19141545&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0MzoyNiBBTSZoYXNoX3ZhbHVlPUJ2VVMvUlp4T2RVcEpyV0hHRnhqalE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,HGTV
+http://live.savitar.tv/HGTV/myStream/chunks.m3u8?nimblesessionid=19141956&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0NDozOSBBTSZoYXNoX3ZhbHVlPXJuMmtHdFpOSGhVbWdwTFFzaEd2N0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,AMC
+http://peer3.savitar.tv/AMC/myStream/chunks.m3u8?nimblesessionid=699191&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0NjowMiBBTSZoYXNoX3ZhbHVlPXA2SFRISk10cTA5WmtucDNlYmtYOEE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,DISCOVERY
+http://live.savitar.tv/Discovery/myStream/chunks.m3u8?nimblesessionid=19142596&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0Njo1NyBBTSZoYXNoX3ZhbHVlPTdJS2U2UWtRSDhNMko0UFBIL3NWL0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,HISTORY
+http://live.savitar.tv/History/myStream/chunks.m3u8?nimblesessionid=19142874&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0ODowOSBBTSZoYXNoX3ZhbHVlPUpZMkdPTzhSU3UxeWhrRWhqZjdFTGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,WEATHER CHANNEL
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,MSNBC
+http://peer2.savitar.tv/MSNBC/myStream/chunks.m3u8?nimblesessionid=13793345&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo1Mzo1NiBBTSZoYXNoX3ZhbHVlPVRrL3h6RXBhSUs5NFF0ZGxkRVFlSmc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,CBS
+http://peer3.savitar.tv/CBS/myStream/chunks.m3u8?nimblesessionid=699724&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo1NToxMCBBTSZoYXNoX3ZhbHVlPUxELzAzYUNGZ3hxb2oySjhBY3lmTnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,ABC
+http://peer1.savitar.tv/ABC/myStream/chunks.m3u8?nimblesessionid=19144578&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo1NTo0OCBBTSZoYXNoX3ZhbHVlPXYvOU96NDBCVkphOXZYL1JaZU85SVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,NBC
+http://peer2.savitar.tv/NBC/myStream/chunks.m3u8?nimblesessionid=13794045&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo1Njo0MiBBTSZoYXNoX3ZhbHVlPUtUM2dQMXp6YjR6ejU3Y00vZFl5bWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,FOX
+http://peer2.savitar.tv/FOX/myStream/chunks.m3u8?nimblesessionid=13794231&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo1NzoyMiBBTSZoYXNoX3ZhbHVlPUthcDkyaExHamlYQ3NYZ21VTnN3aHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,CNBC
+http://live.savitar.tv/CNBC/myStream/chunks.m3u8?nimblesessionid=19145185&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo1ODoxMSBBTSZoYXNoX3ZhbHVlPVZ1Y25CM0pucXZTd1NPTnFLOUFlclE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,5 STAR MAX
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101291
+#EXTINF:0,AHN (AMERICAN HEROES NETWORK)
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101288
+#EXTINF:0,BET EAST
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101279
+#EXTINF:0,BOUNCE
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101271
+#EXTINF:0,BET WEST
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101278
+#EXTINF:0,BLOOMBERG
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101273
+#EXTINF:0,BOOMERANG
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101272
