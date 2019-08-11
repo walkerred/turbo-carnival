@@ -1,117 +1,332 @@
-#EXTM3U
-#EXTINF:0,CNN
-EXTVLCOPT:network-caching=1000
-http://peer2.savitar.tv/CNN/myStream/chunks.m3u8?nimblesessionid=13773626&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo0Nzo0MiBBTSZoYXNoX3ZhbHVlPXdmS2tlU1VTUWkxU2dMS3l6T0p6aHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,MOTOR TREND
-EXTVLCOPT:network-caching=1000
-http://live.savitar.tv/MotorTrend/myStream/chunks.m3u8?nimblesessionid=19123552&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo0OTo0NyBBTSZoYXNoX3ZhbHVlPVlmcUR1SXdMdnBlOGFDc2FVNEI4M1E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,POP
-EXTVLCOPT:network-caching=1000
-http://live.savitar.tv/POP/myStream/l_241180_27080469_6751.ts?nimblesessionid=19124330&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo1MTo0OSBBTSZoYXNoX3ZhbHVlPVV5YkJwNnNqRzlIRCs2NHpUOXp4UXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,DISNEY HD
-http://live.savitar.tv/DisneyXD/myStream/chunks.m3u8?nimblesessionid=19124816&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo1MzoyMSBBTSZoYXNoX3ZhbHVlPUxMdWkwdnFWcTFtc0dHM0lhQWRITUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,TRU TV
-http://peer3.savitar.tv/TruTV/myStream/l_200206_48996626_9476.ts?nimblesessionid=695028&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo1NDo0NyBBTSZoYXNoX3ZhbHVlPTZ3bmo0eVVnNEFVdFQ0QVBib1BoUXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,HBO
-http://peer3.savitar.tv/HBO/myStream/chunks.m3u8?nimblesessionid=695163&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo1NjoyOSBBTSZoYXNoX3ZhbHVlPWp6azcrV0hkL1JZYzYxNEF2bUE1ZEE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,SHOWTIME
-http://peer3.savitar.tv/Showtime/myStream/chunks.m3u8?nimblesessionid=695319&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgMzo1ODowNCBBTSZoYXNoX3ZhbHVlPVFSZjA1YURLcC8xYlRJb2lJbzY4T2c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,TNT
-http://peer2.savitar.tv/TNT/myStream/chunks.m3u8?nimblesessionid=13776779&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDowMDoxOSBBTSZoYXNoX3ZhbHVlPWhuMFcyUnhXeFlDVFR2cnZEblJRMnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,TCM (TURNER CLASSIC MOVIES)
-http://live.savitar.tv/TCM/myStream/chunks.m3u8?nimblesessionid=19127850&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDowMTozMyBBTSZoYXNoX3ZhbHVlPUMzaFdlVGtZMk9kTEN6YlVLY1NxSGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,STARZ
-http://live.savitar.tv/StarZ/myStream/chunks.m3u8?nimblesessionid=19132743&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoxMzoyMyBBTSZoYXNoX3ZhbHVlPTBPN1hRV1daRk02TzFLcTFPSVdWVGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,FX
-http://live.savitar.tv/FX/myStream/chunks.m3u8?nimblesessionid=19131070&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDowODo0OCBBTSZoYXNoX3ZhbHVlPUlGcUNMWEFnVlN3dTJtRnF2VFQ3Y2c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,USA
-http://peer2.savitar.tv/USANetwork/myStream/chunks.m3u8?nimblesessionid=13778750&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDowNjozMyBBTSZoYXNoX3ZhbHVlPW50cU5pVE9KUERrZmFFR295Uk1adnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,SYFY
-http://live.savitar.tv/SYFY/myStream/chunks.m3u8?nimblesessionid=19133400&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoxNToxNyBBTSZoYXNoX3ZhbHVlPWw5Z2t5Y3UyNnJMcVIxeXJJa1pGd0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,BBC AMERICA
-http://live.savitar.tv/BBCAmerica/myStream/chunks.m3u8?nimblesessionid=19133910&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoxNjozOSBBTSZoYXNoX3ZhbHVlPXBiVkZLRi9mWGg3NjJTaDZiUkVtUGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,PBS
-http://live.savitar.tv/PBS/myStream/chunks.m3u8?nimblesessionid=19134458&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoxODowNyBBTSZoYXNoX3ZhbHVlPTFPZXUrTXh2YnV0WGw4NUNFUHI3bUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,NAT GEO
-http://live.savitar.tv/NatGEO/myStream/chunks.m3u8?nimblesessionid=19134962&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoxOToyNyBBTSZoYXNoX3ZhbHVlPTI0YWFtdHNITm4vS2VlV0lNZCtPc3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,NAT GEO WILD
-http://live.savitar.tv/NatGEOWild/myStream/chunks.m3u8?nimblesessionid=19135538&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyMTowMiBBTSZoYXNoX3ZhbHVlPTZEemVtSGZRQTBla29CYVNaVm5qN1E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,ANIMAL PLANET
-http://live.savitar.tv/Animal/myStream/chunks.m3u8?nimblesessionid=19135942&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyMjoxOCBBTSZoYXNoX3ZhbHVlPURpN1hYUXFpcmd3VjJwdmtHeGxZYmc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,COMEDY CENTRAL
-http://live.savitar.tv/Comedy/myStream/chunks.m3u8?nimblesessionid=19136327&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyMzozMCBBTSZoYXNoX3ZhbHVlPWNJVU82TjluZDhGbEZlSDUyaEgxVlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,FREE FORM
-http://live.savitar.tv/Freeform/myStream/chunks.m3u8?nimblesessionid=19136813&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyNToxNyBBTSZoYXNoX3ZhbHVlPXpGcmtLZVpjeWRyZVg2TnR2YTBlN0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,LIFETIME
-http://live.savitar.tv/Lifetime/myStream/chunks.m3u8?nimblesessionid=19137156&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyNjozNSBBTSZoYXNoX3ZhbHVlPW83S1NzU04yeVFVOHhNR1dCZTljbkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,FOOD NETWORK
-http://live.savitar.tv/FoodNetwork/myStream/chunks.m3u8?nimblesessionid=19137487&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyNzo1MyBBTSZoYXNoX3ZhbHVlPXBRbHBsSDhYNE5xVzZIT3V3MzAzY0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,TLC
-http://live.savitar.tv/TLC/myStream/chunks.m3u8?nimblesessionid=19137795&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDoyOToyNCBBTSZoYXNoX3ZhbHVlPW9oNDhnTHNuYXY1N1lqWFgzTk1GbFE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,TRAVEL
-http://live.savitar.tv/Travel/myStream/chunks.m3u8?nimblesessionid=19138174&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozMDo0MiBBTSZoYXNoX3ZhbHVlPXk4Z2FqMDNNUm50dk8zWGxDWGpOcnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,BRAVO
-http://live.savitar.tv/Bravo/myStream/chunks.m3u8?nimblesessionid=19138603&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozMjoyMiBBTSZoYXNoX3ZhbHVlPUJmR1VQOTNtYUxJeGYraHJmdUdoTlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,TV LAND
-http://live.savitar.tv/TVLand/myStream/chunks.m3u8?nimblesessionid=19139009&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozMzozNCBBTSZoYXNoX3ZhbHVlPXdzcUJ3WG9YY0N4S1gzeGdTdGg4RlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,TBS
-http://live.savitar.tv/TBS/myStream/chunks.m3u8?nimblesessionid=19139437&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozNTowMiBBTSZoYXNoX3ZhbHVlPUVPSjl0NUJRdEJGTE8rWGNHQkFNVnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,A&E
-http://live.savitar.tv/AE/myStream/chunks.m3u8?nimblesessionid=19139655&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozNTo1OCBBTSZoYXNoX3ZhbHVlPU1zbXZsN05RcGZKTzk1Y3o4S2RqQWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,HALLMARK MOVIES & MYSTERIES
-http://live.savitar.tv/HMM/myStream/chunks.m3u8?nimblesessionid=19139904&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozNzowNyBBTSZoYXNoX3ZhbHVlPW9icTdqd2NNWlB3eHJhZ01SaE1nY2c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,HALLMARK
-http://live.savitar.tv/Hallmark/myStream/chunks.m3u8?nimblesessionid=19140286&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozODozMSBBTSZoYXNoX3ZhbHVlPVRVZ0pTcnQ2NFY2dmNaZSt5QThXV3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,DISNEY
-http://live.savitar.tv/Disney/myStream/chunks.m3u8?nimblesessionid=19140541&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDozOTozMCBBTSZoYXNoX3ZhbHVlPUFWejVOWGxRSkpFTk9nTFdrNmg2a0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,ID
-http://live.savitar.tv/ID/myStream/chunks.m3u8?nimblesessionid=19140811&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0MDozNyBBTSZoYXNoX3ZhbHVlPWYzQ1V0M1pvd2pDamlFMHlsYXRtS1E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,NICK
-http://live.savitar.tv/Nickelodeon/myStream/chunks.m3u8?nimblesessionid=19141029&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0MToyNyBBTSZoYXNoX3ZhbHVlPUNHRVE4S1ZORWxvZFRWQmtqMDV4Ync9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,CARTOON NETWORK
-http://live.savitar.tv/CN/myStream/chunks.m3u8?nimblesessionid=19141293&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0MjoyNyBBTSZoYXNoX3ZhbHVlPWw4Y0I3M2hpTldORlFNa2FwOU9wS3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,CW
-http://live.savitar.tv/CW/myStream/chunks.m3u8?nimblesessionid=19141545&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0MzoyNiBBTSZoYXNoX3ZhbHVlPUJ2VVMvUlp4T2RVcEpyV0hHRnhqalE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,HGTV
-http://live.savitar.tv/HGTV/myStream/chunks.m3u8?nimblesessionid=19141956&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0NDozOSBBTSZoYXNoX3ZhbHVlPXJuMmtHdFpOSGhVbWdwTFFzaEd2N0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,AMC
-http://peer3.savitar.tv/AMC/myStream/chunks.m3u8?nimblesessionid=699191&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0NjowMiBBTSZoYXNoX3ZhbHVlPXA2SFRISk10cTA5WmtucDNlYmtYOEE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,DISCOVERY
-http://live.savitar.tv/Discovery/myStream/chunks.m3u8?nimblesessionid=19142596&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0Njo1NyBBTSZoYXNoX3ZhbHVlPTdJS2U2UWtRSDhNMko0UFBIL3NWL0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,HISTORY
-http://live.savitar.tv/History/myStream/chunks.m3u8?nimblesessionid=19142874&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo0ODowOSBBTSZoYXNoX3ZhbHVlPUpZMkdPTzhSU3UxeWhrRWhqZjdFTGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,WEATHER CHANNEL
-https://weather-lh.akamaihd.net/i/twc_1@92006/index_400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,MSNBC
-http://peer2.savitar.tv/MSNBC/myStream/chunks.m3u8?nimblesessionid=13793345&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo1Mzo1NiBBTSZoYXNoX3ZhbHVlPVRrL3h6RXBhSUs5NFF0ZGxkRVFlSmc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,CBS
-http://peer3.savitar.tv/CBS/myStream/chunks.m3u8?nimblesessionid=699724&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo1NToxMCBBTSZoYXNoX3ZhbHVlPUxELzAzYUNGZ3hxb2oySjhBY3lmTnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,ABC
-http://peer1.savitar.tv/ABC/myStream/chunks.m3u8?nimblesessionid=19144578&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo1NTo0OCBBTSZoYXNoX3ZhbHVlPXYvOU96NDBCVkphOXZYL1JaZU85SVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,NBC
-http://peer2.savitar.tv/NBC/myStream/chunks.m3u8?nimblesessionid=13794045&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo1Njo0MiBBTSZoYXNoX3ZhbHVlPUtUM2dQMXp6YjR6ejU3Y00vZFl5bWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,FOX
-http://peer2.savitar.tv/FOX/myStream/chunks.m3u8?nimblesessionid=13794231&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo1NzoyMiBBTSZoYXNoX3ZhbHVlPUthcDkyaExHamlYQ3NYZ21VTnN3aHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,CNBC
-http://live.savitar.tv/CNBC/myStream/chunks.m3u8?nimblesessionid=19145185&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTkgNDo1ODoxMSBBTSZoYXNoX3ZhbHVlPVZ1Y25CM0pucXZTd1NPTnFLOUFlclE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:0,5 STAR MAX
-EXTVLCOPT:network-caching=1000
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101291
-#EXTINF:0,AHN (AMERICAN HEROES NETWORK)
-EXTVLCOPT:network-caching=1000
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101288
-#EXTINF:0,BET EAST
-EXTVLCOPT:network-caching=1000
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101279
-#EXTINF:0,BOUNCE
-EXTVLCOPT:network-caching=1000
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101271
-#EXTINF:0,BET WEST
-EXTVLCOPT:network-caching=1000
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101278
-#EXTINF:0,BLOOMBERG
-EXTVLCOPT:network-caching=1000
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101273
-#EXTINF:0,BOOMERANG
-EXTVLCOPT:network-caching=1000
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/101272
+#EXTINF:-1,US: A&E | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101290
+#EXTINF:-1,US: AMC | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101289
+#EXTINF:-1,US: AMERICAN HERO | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101288
+#EXTINF:-1,US: ANIMAL PLANET (East) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101287
+#EXTINF:-1,US: ANIMAL PLANET | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101286
+#EXTINF:-1,US: AXS TV | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101285
+#EXTINF:-1,US: BABY TV | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101284
+#EXTINF:-1,US: BBC AMERICA | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101283
+#EXTINF:-1,US: SPORT | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101282
+#EXTINF:-1,US: SPORTS ? | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101280
+#EXTINF:-1,US: SPORTS (espa?ol) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101281
+#EXTINF:-1,US: BET (East) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101279
+#EXTINF:-1,US: BET (West) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101278
+#EXTINF:-1,US: BET HER | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101277
+#EXTINF:-1,US: BET INTERNATIONAL | SD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101276
+#EXTINF:-1,US: BET JAMZ | SD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101275
+#EXTINF:-1,US: BIG TEN NETWORK | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101274
+#EXTINF:-1,US: Bloomberg TV | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101273
+#EXTINF:-1,US: BOOMERANG | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101272
+#EXTINF:-1,US: BOUNCE TV | SD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101271
+#EXTINF:-1,US: BRAVO (West) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101270
+#EXTINF:-1,US: BRAVO | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101269
+#EXTINF:-1,US: BUZZER TV | SD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101268
+#EXTINF:-1,US: BYU TV | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101267
+#EXTINF:-1,US: CARTOON NETWORK | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101266
+#EXTINF:-1,US: CINEMAX (West) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101265
+#EXTINF:-1,US: CINEMAX ACTION | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101264
+#EXTINF:-1,US: CINEMAX ACTION | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101263
+#EXTINF:-1,US: CINEMAX EAST | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101262
+#EXTINF:-1,US: CINEMAX MOREMAX | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101261
+#EXTINF:-1,US: CINEMAX OUTERMAX | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101260
+#EXTINF:-1,US: CINEMAX THRILLER | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101259
+#EXTINF:-1,US: CMT | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101258
+#EXTINF:-1,US: CNBC | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101257
+#EXTINF:-1,US: CNBC WORLD | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101256
+#EXTINF:-1,US: CNN | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101255
+#EXTINF:-1,US: CNN | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101254
+#EXTINF:-1,US: COMEDY CENTRAL | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101253
+#EXTINF:-1,US: COOKING CHANNEL | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101252
+#EXTINF:-1,US: COUNTRY MUSIC | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101251
+#EXTINF:-1,US: CW (Central PA) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101250
+#EXTINF:-1,US: CW | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101249
+#EXTINF:-1,US: DESTINATION AMERICA | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101330
+#EXTINF:-1,US: DESTINATION AMERICA | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101329
+#EXTINF:-1,US: DISCOVERY CHANNEL | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101328
+#EXTINF:-1,US: DISCOVERY FAMILY | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101327
+#EXTINF:-1,US: DISCOVERY LIFE | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101326
+#EXTINF:-1,US: DISCOVERY SCIENCE | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101325
+#EXTINF:-1,US: DISCOVERY VELOCITY | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101324
+#EXTINF:-1,US: DISNEY CHANNEL | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101323
+#EXTINF:-1,US: DISNEY JR (West) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101322
+#EXTINF:-1,US: DISNEY JR. | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101321
+#EXTINF:-1,US: DISNEY XD (West) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101320
+#EXTINF:-1,US: DISNEY XD | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101319
+#EXTINF:-1,US: DISNEY XD | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101318
+#EXTINF:-1,US: DIY NETWORK | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101317
+#EXTINF:-1,US: E! (East) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101316
+#EXTINF:-1,US: E! (West) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101315
+#EXTINF:-1,US: E! | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101314
+#EXTINF:-1,US: EL REY NETWORK | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101313
+#EXTINF:-1,US: EPIX | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101312
+#EXTINF:-1,US: EPIX DRIVE IN | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101311
+#EXTINF:-1,US: EPIX HITS | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101310
+#EXTINF:-1,US: ESPN | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101309
+#EXTINF:-1,US: ESPN 2 | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101308
+#EXTINF:-1,US: ESPN 3 | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101307
+#EXTINF:-1,US: ESPN CLASSIC | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101306
+#EXTINF:-1,US: ESPN News | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101305
+#EXTINF:-1,US: ESPN U | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101304
+#EXTINF:-1,US: FANTASY NETWORK | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101303
+#EXTINF:-1,US: FIGHT BOX | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101302
+#EXTINF:-1,US: FIGHT NETWORK | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101301
+#EXTINF:-1,US: FOOD NETWORK | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101300
+#EXTINF:-1,US: FOX SOCCER PLUS | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101299
+#EXTINF:-1,US: FOX SPORTS 1 | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101298
+#EXTINF:-1,US: FOX SPORTS 1 | HD*
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101297
+#EXTINF:-1,US: FOX SPORTS 2 | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101296
+#EXTINF:-1,US: FOX SPORTS 2 | HD*
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101295
+#EXTINF:-1,US: FUSE | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101294
+#EXTINF:-1,US: FUSION | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101293
+#EXTINF:-1,US: FX | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101368
+#EXTINF:-1,US: FXM | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101367
+#EXTINF:-1,US: FXM RETRO | SD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101366
+#EXTINF:-1,US: FXX | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101365
+#EXTINF:-1,US: FXX WEST | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101364
+#EXTINF:-1,US: FYI | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101363
+#EXTINF:-1,US: GOL TV | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101362
+#EXTINF:-1,US: GRIT TV | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101361
+#EXTINF:-1,US: GSN | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101360
+#EXTINF:-1,US: HALLMARK CHANNEL | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101359
+#EXTINF:-1,US: HALLMARK DRAMA | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101358
+#EXTINF:-1,US: HALLMARK MOVIES & MYSTERIES | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101357
+#EXTINF:-1,US: HBO | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101355
+#EXTINF:-1,US: HBO 2 | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101354
+#EXTINF:-1,US: HBO COMEDY | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101353
+#EXTINF:-1,US: HBO FAMILY | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101352
+#EXTINF:-1,US: HBO SIGNATURE (West) | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101351
+#EXTINF:-1,US: HBO ZONE | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101350
+#EXTINF:-1,US: HBO ZONE | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101349
+#EXTINF:-1,US: HDNET MOVIES | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101348
+#EXTINF:-1,US: HGTV | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101347
+#EXTINF:-1,US: ION | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101346
+#EXTINF:-1,US: LIFETIME | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101345
+#EXTINF:-1,US: LIFETIME | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101344
+#EXTINF:-1,US: LIFETIME MOVIES | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101343
+#EXTINF:-1,US: LOGO | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101342
+#EXTINF:-1,US: NAT GEO | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101340
+#EXTINF:-1,US: NAT GEO WILD | FHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101339
+#EXTINF:-1,US: NBA TV | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101338
+#EXTINF:-1,US: NBC GOLF CHANNEL | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101337
+#EXTINF:-1,US: NBC SPORTS (Chicago) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101336
+#EXTINF:-1,US: NBC SPORTS BAY AREA | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101335
+#EXTINF:-1,US: NBC Sports Network | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101334
+#EXTINF:-1,US: NFL NOW | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101333
+#EXTINF:-1,US: NFL REDZONE | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101332
+#EXTINF:-1,US: NHL NETWORK | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101331
+#EXTINF:-1,US: NICKELODEON | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101419
+#EXTINF:-1,US: NICKTOONS | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101418
+#EXTINF:-1,US: OLYMPIC CHANNEL | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101417
+#EXTINF:-1,US: OWN | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101416
+#EXTINF:-1,US: OWN | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101415
+#EXTINF:-1,US: OXYGEN | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101414
+#EXTINF:-1,US: PARAMOUNT NETWORK | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101413
+#EXTINF:-1,US: PBS KIDS | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101412
+#EXTINF:-1,US: PBS KIDS 2 | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101411
+#EXTINF:-1,US: PEOPLE TV | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101410
+#EXTINF:-1,US: POP TV | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101409
+#EXTINF:-1,US: PURSUIT CHANNEL | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101408
+#EXTINF:-1,US: QVC | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101407
+#EXTINF:-1,US: RED BULL TV | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101406
+#EXTINF:-1,US: REVOLT | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101405
+#EXTINF:-1,US: SONY MOVIE CHANNEL | SD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101404
+#EXTINF:-1,US: SPORTS NETWORK (NY) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101403
+#EXTINF:-1,US: SPORTSMAN CHANNEL | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101402
+#EXTINF:-1,US: SPORTSNET LA (Los Angeles) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101401
+#EXTINF:-1,US: STARZ | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101400
+#EXTINF:-1,US: STARZ CINEMA | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101399
+#EXTINF:-1,US: STARZ COMEDY | SD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101398
+#EXTINF:-1,US: STARZ EDGE | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101397
+#EXTINF:-1,US: STARZ ENCORE | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101396
+#EXTINF:-1,US: STARZ KIDS & FAMILY | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101395
+#EXTINF:-1,US: STARZ KIDS & FAMILY | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101394
+#EXTINF:-1,US: STARZ SUSPENSE | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101393
+#EXTINF:-1,US: STARZ WESTERNS | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101392
+#EXTINF:-1,US: SUNDANCE | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101391
+#EXTINF:-1,US: SYFY ( West ) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101390
+#EXTINF:-1,US: SYFY | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101389
+#EXTINF:-1,US: TLC ( West ) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101388
+#EXTINF:-1,US: TLC | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101387
+#EXTINF:-1,US: TLC | UHD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101386
+#EXTINF:-1,US: TNT ( West ) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101385
+#EXTINF:-1,US: TNT (East) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101384
+#EXTINF:-1,US: TRU TV ( West ) | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101383
+#EXTINF:-1,US: TRU TV | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101382
+#EXTINF:-1,US: TUFF TV | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101381
+#EXTINF:-1,US: UFC FIGHT PASS | HD*
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101380
+#EXTINF:-1,US: UFC NETWORK | SD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101379
+#EXTINF:-1,US: UFC TV | 720
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101378
+#EXTINF:-1,US: UNIMAS | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101377
+#EXTINF:-1,US: UNIVERSAL KIDS | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101376
+#EXTINF:-1,US: UNIVISION | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101375
+#EXTINF:-1,US: Univision es | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101374
+#EXTINF:-1,US: USA NETWORK | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101372
+#EXTINF:-1,US: VH1 | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101371
+#EXTINF:-1,US: VICE LAND | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101370
+#EXTINF:-1,US: WE TV | HD
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101369
